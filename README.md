@@ -74,7 +74,7 @@ files that will be in the current directory before running the script are:
 * asoc2codedx.py - the script that is executed to perform the data acquisition
 * asoc.py - a support file that contains access code for the IBM ASoC
 
-After successful execution of the script, three additional files will be generated in the
+After successful execution of the script, two additional files will be generated in the
 current working directory.  These are:
 
 * codedx.xml - the output from IBM ASoC for Code Dx ingestion
